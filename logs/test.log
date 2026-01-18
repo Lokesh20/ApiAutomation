@@ -1,0 +1,26 @@
+22:21:10.284 [main] INFO  listeners.TestListener - Test Started
+22:21:10.346 [main] INFO  listeners.TestListener - On start of test
+22:21:10.346 [main] INFO  apiTest.SignupTest - TestCase
+22:21:10.362 [main] INFO  listeners.TestListener - Test Passed: signupTest
+22:21:10.362 [main] INFO  listeners.TestListener - Test completed
+22:45:40.243 [main] INFO  listeners.TestListener - Test Started
+22:45:40.290 [main] INFO  listeners.TestListener - On start of test
+22:45:40.290 [main] INFO  apiTest.SignupTest - TestCase
+22:45:40.306 [main] INFO  listeners.TestListener - Test Passed: signupTest
+22:45:40.306 [main] INFO  listeners.TestListener - Test completed
+22:48:32.585 [main] INFO  listeners.TestListener - Test Started
+22:48:32.632 [main] INFO  listeners.TestListener - On start of test
+22:48:32.647 [main] INFO  apiTest.SignupTest - TestCase
+22:48:34.181 [main] INFO  filter.LoggingFilter - Base URI http://64.227.160.186:8080/
+22:48:34.982 [main] INFO  filter.LoggingFilter - StatusCode 400
+22:48:35.044 [main] INFO  listeners.TestListener - Test Passed: signupTest
+22:48:35.044 [main] INFO  listeners.TestListener - Test completed
+22:50:28.944 [main] INFO  filter.LoggingFilter - Base URI http://64.227.160.186:8080/
+22:50:29.587 [main] INFO  filter.LoggingFilter - StatusCode 200
+22:54:52.472 [main] INFO  listeners.TestListener - Test Started
+22:54:52.538 [TestNG-test-API Tests-1] INFO  listeners.TestListener - On start of test
+22:54:52.544 [TestNG-test-API Tests-1] INFO  apiTest.SignupTest - TestCase
+22:54:55.092 [TestNG-test-API Tests-1] INFO  filter.LoggingFilter - Base URI http://64.227.160.186:8080/
+22:54:56.915 [TestNG-test-API Tests-1] INFO  filter.LoggingFilter - StatusCode 400
+22:54:56.958 [TestNG-test-API Tests-1] INFO  listeners.TestListener - Test Passed: signupTest
+22:54:57.134 [main] INFO  listeners.TestListener - Test completed
